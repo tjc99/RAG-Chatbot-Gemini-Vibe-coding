@@ -15,8 +15,8 @@
 ### 1. 克隆本仓库
 打开终端或 Anaconda Prompt，运行以下命令：
 ```bash
-git clone https://github.com/你的用户名/你的仓库名.git
-cd 你的仓库名
+git clone https://github.com/tjc99/RAG-Chatbot-Gemini-Vibe-coding.git
+cd RAG-Chatbot-Gemini-Vibe-coding
 
 ```
 
