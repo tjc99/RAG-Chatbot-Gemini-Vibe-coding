@@ -34,7 +34,7 @@ pip install -r requirements.txt
 依赖安装完成后，运行以下命令启动 Streamlit 网页端：
 
 ```bash
-streamlit run app.py
+streamlit run rag_chatbot_gemini.py
 
 ```
 
